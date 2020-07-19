@@ -1,0 +1,8 @@
+7	4 (argentina brasil paraguai uruguai)
+spA	1101
+spB	0110
+spC	1010
+spD	1000
+spE	0011
+spF	0001
+spG	0100

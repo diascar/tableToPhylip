@@ -1,0 +1,8 @@
+species	area
+spA	Brasil, Uruguai, Argentina
+spB	Brasil, Paraguai
+spC	Paraguai, Argentina
+spD	Argentina
+spE	Paraguai, Uruguai
+spF	Uruguai
+spG	Brasil
